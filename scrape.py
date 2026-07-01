@@ -38,7 +38,6 @@ COMPANIES = [
     {"name": "together",   "type": "greenhouse", "slug": "togetherai"},
     {"name": "neuralink",  "type": "greenhouse", "slug": "neuralink"},
     {"name": "glean",      "type": "greenhouse", "slug": "gleanwork"},
-    {"name": "cerebras",   "type": "greenhouse", "slug": "cerebrassystems"},
 
     # --- Ashby ---
     {"name": "linear",     "type": "ashby", "slug": "linear"},
