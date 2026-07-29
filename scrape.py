@@ -62,7 +62,6 @@ COMPANIES = [
     {"name": "decagon",    "type": "ashby", "slug": "decagon"},
 
     # --- Lever ---
-    {"name": "netflix",    "type": "lever", "slug": "netflix"},
     {"name": "palantir",   "type": "lever", "slug": "palantir"},
     {"name": "mistral",    "type": "lever", "slug": "mistral"},
 
