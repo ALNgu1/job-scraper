@@ -63,7 +63,6 @@ COMPANIES = [
 
     # --- Lever ---
     {"name": "palantir",   "type": "lever", "slug": "palantir"},
-    {"name": "mistral",    "type": "lever", "slug": "mistral"},
 
     # --- Meta (custom GraphQL via meta_scraper.py) ---
     {"name": "meta",       "type": "meta"},
@@ -104,14 +103,6 @@ COMPANIES_DISABLED = {
 
 INCLUDE_KEYWORDS = [
     "intern", "internship",
-    "software engineer", "software engineering",
-    "software developer", "software development",
-    "data engineer", "data engineering",
-    "machine learning", "ml engineer",
-    "ai engineer", "artificial intelligence",
-    "technical",
-    "engineer", "engineering",
-    "developer",
 ]
 
 EXCLUDE_KEYWORDS = [
